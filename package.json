@@ -1,6 +1,6 @@
 {
   "name": "jsx-autobind",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Easy autobind for jsx template",
   "main": "./build/index.js",
   "scripts": {
