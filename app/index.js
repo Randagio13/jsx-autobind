@@ -1,3 +1,3 @@
-export function jsxBind(fn, ...args) {
+export default function autobind(fn, ...args) {
   return fn.bind(fn, ...args);
 }
