@@ -1,3 +1,1 @@
-export default function autobind(fn, ...args) {
-  return fn.bind(fn, ...args);
-}
+export default (fn, ...args) => fn.bind(fn, ...args)
