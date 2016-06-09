@@ -1,4 +1,4 @@
-# jsx-autobind
+# jsx-autobind [![npm version](https://badge.fury.io/js/jsx-autobind.svg)](https://badge.fury.io/js/jsx-autobind)
 Easy autobind function for jsx template
 
 ```js
